@@ -24,6 +24,12 @@ namespace SoloLearn
             double y = 20;
             int xx = 29;
             Console.WriteLine("x = {0}; y = {1}; xx = {2}", z, y, x);
+            //
+            string name = Console.ReadLine();
+            int age = Int32.Parse(Console.ReadLine());
+
+            Console.WriteLine("Name: " + name);
+            Console.WriteLine("Age: " + age);
         }
     }
 }
