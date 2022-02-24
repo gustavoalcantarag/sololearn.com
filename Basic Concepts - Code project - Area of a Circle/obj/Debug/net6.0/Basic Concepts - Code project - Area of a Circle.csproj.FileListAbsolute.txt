@@ -1,0 +1,15 @@
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Basic Concepts - Code project - Area of a Circle\bin\Debug\net6.0\Basic Concepts - Code project - Area of a Circle.exe
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Basic Concepts - Code project - Area of a Circle\bin\Debug\net6.0\Basic Concepts - Code project - Area of a Circle.deps.json
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Basic Concepts - Code project - Area of a Circle\bin\Debug\net6.0\Basic Concepts - Code project - Area of a Circle.runtimeconfig.json
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Basic Concepts - Code project - Area of a Circle\bin\Debug\net6.0\Basic Concepts - Code project - Area of a Circle.dll
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Basic Concepts - Code project - Area of a Circle\bin\Debug\net6.0\Basic Concepts - Code project - Area of a Circle.pdb
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Basic Concepts - Code project - Area of a Circle\obj\Debug\net6.0\Basic Concepts - Code project - Area of a Circle.csproj.AssemblyReference.cache
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Basic Concepts - Code project - Area of a Circle\obj\Debug\net6.0\Basic Concepts - Code project - Area of a Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Basic Concepts - Code project - Area of a Circle\obj\Debug\net6.0\Basic Concepts - Code project - Area of a Circle.AssemblyInfoInputs.cache
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Basic Concepts - Code project - Area of a Circle\obj\Debug\net6.0\Basic Concepts - Code project - Area of a Circle.AssemblyInfo.cs
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Basic Concepts - Code project - Area of a Circle\obj\Debug\net6.0\Basic Concepts - Code project - Area of a Circle.csproj.CoreCompileInputs.cache
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Basic Concepts - Code project - Area of a Circle\obj\Debug\net6.0\Basic Concepts - Code project - Area of a Circle.dll
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Basic Concepts - Code project - Area of a Circle\obj\Debug\net6.0\refint\Basic Concepts - Code project - Area of a Circle.dll
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Basic Concepts - Code project - Area of a Circle\obj\Debug\net6.0\Basic Concepts - Code project - Area of a Circle.pdb
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Basic Concepts - Code project - Area of a Circle\obj\Debug\net6.0\Basic Concepts - Code project - Area of a Circle.genruntimeconfig.cache
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Basic Concepts - Code project - Area of a Circle\obj\Debug\net6.0\ref\Basic Concepts - Code project - Area of a Circle.dll
