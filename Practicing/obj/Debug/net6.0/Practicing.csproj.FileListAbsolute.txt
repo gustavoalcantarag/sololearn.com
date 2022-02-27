@@ -1,0 +1,15 @@
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Practicing\bin\Debug\net6.0\Practicing.exe
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Practicing\bin\Debug\net6.0\Practicing.deps.json
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Practicing\bin\Debug\net6.0\Practicing.runtimeconfig.json
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Practicing\bin\Debug\net6.0\Practicing.dll
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Practicing\bin\Debug\net6.0\Practicing.pdb
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Practicing\obj\Debug\net6.0\Practicing.csproj.AssemblyReference.cache
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Practicing\obj\Debug\net6.0\Practicing.GeneratedMSBuildEditorConfig.editorconfig
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Practicing\obj\Debug\net6.0\Practicing.AssemblyInfoInputs.cache
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Practicing\obj\Debug\net6.0\Practicing.AssemblyInfo.cs
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Practicing\obj\Debug\net6.0\Practicing.csproj.CoreCompileInputs.cache
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Practicing\obj\Debug\net6.0\Practicing.dll
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Practicing\obj\Debug\net6.0\refint\Practicing.dll
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Practicing\obj\Debug\net6.0\Practicing.pdb
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Practicing\obj\Debug\net6.0\Practicing.genruntimeconfig.cache
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\Practicing\obj\Debug\net6.0\ref\Practicing.dll
