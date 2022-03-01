@@ -1,0 +1,15 @@
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\03 Methods - Code project - Level Points\bin\Debug\net6.0\03 Methods - Code project - Level Points.exe
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\03 Methods - Code project - Level Points\bin\Debug\net6.0\03 Methods - Code project - Level Points.deps.json
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\03 Methods - Code project - Level Points\bin\Debug\net6.0\03 Methods - Code project - Level Points.runtimeconfig.json
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\03 Methods - Code project - Level Points\bin\Debug\net6.0\03 Methods - Code project - Level Points.dll
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\03 Methods - Code project - Level Points\bin\Debug\net6.0\03 Methods - Code project - Level Points.pdb
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\03 Methods - Code project - Level Points\obj\Debug\net6.0\03 Methods - Code project - Level Points.csproj.AssemblyReference.cache
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\03 Methods - Code project - Level Points\obj\Debug\net6.0\03 Methods - Code project - Level Points.GeneratedMSBuildEditorConfig.editorconfig
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\03 Methods - Code project - Level Points\obj\Debug\net6.0\03 Methods - Code project - Level Points.AssemblyInfoInputs.cache
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\03 Methods - Code project - Level Points\obj\Debug\net6.0\03 Methods - Code project - Level Points.AssemblyInfo.cs
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\03 Methods - Code project - Level Points\obj\Debug\net6.0\03 Methods - Code project - Level Points.csproj.CoreCompileInputs.cache
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\03 Methods - Code project - Level Points\obj\Debug\net6.0\03 Methods - Code project - Level Points.dll
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\03 Methods - Code project - Level Points\obj\Debug\net6.0\refint\03 Methods - Code project - Level Points.dll
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\03 Methods - Code project - Level Points\obj\Debug\net6.0\03 Methods - Code project - Level Points.pdb
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\03 Methods - Code project - Level Points\obj\Debug\net6.0\03 Methods - Code project - Level Points.genruntimeconfig.cache
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\03 Methods - Code project - Level Points\obj\Debug\net6.0\ref\03 Methods - Code project - Level Points.dll
