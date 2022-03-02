@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GUSTAVO\\Gustavo\\Proyectos\\GitHub\\sololearn.com\\Practicing\\Practicing.csproj",
+      "projectUniqueName": "C:\\GUSTAVO\\Gustavo\\Proyectos\\GitHub\\sololearn.com\\C#\\Practicing\\Practicing.csproj",
       "projectName": "Practicing",
-      "projectPath": "C:\\GUSTAVO\\Gustavo\\Proyectos\\GitHub\\sololearn.com\\Practicing\\Practicing.csproj",
+      "projectPath": "C:\\GUSTAVO\\Gustavo\\Proyectos\\GitHub\\sololearn.com\\C#\\Practicing\\Practicing.csproj",
       "packagesPath": "C:\\Users\\GUSTAVO\\.nuget\\packages\\",
-      "outputPath": "C:\\GUSTAVO\\Gustavo\\Proyectos\\GitHub\\sololearn.com\\Practicing\\obj\\",
+      "outputPath": "C:\\GUSTAVO\\Gustavo\\Proyectos\\GitHub\\sololearn.com\\C#\\Practicing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
