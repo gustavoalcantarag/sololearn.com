@@ -183,45 +183,89 @@
 //    }
 //}
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
 
-namespace SoloLearn
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            int pay = Convert.ToInt32(Console.ReadLine());
+//namespace SoloLearn
+//{
+//    class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            int pay = Convert.ToInt32(Console.ReadLine());
 
-            Payment pay1 = new Payment();
-            pay1.PaymentValue = pay;
-        }
-    }
+//            Payment pay1 = new Payment();
+//            pay1.PaymentValue = pay;
+//        }
+//    }
 
-    class Payment
-    {
-        public int paymentValue;
+//    class Payment
+//    {
+//        public int paymentValue;
 
-        //complete the property
-        public int PaymentValue
-        {
-            get { return paymentValue; }
-            set
-            {
-                paymentValue = value;
-                if(paymentValue <= 50000)
-                {
-                    Console.WriteLine("Accepted");
-                }
-                else
-                {
-                    Console.WriteLine("Error");
-                }
-            }
-        }
-    }
-}
+//        //complete the property
+//        public int PaymentValue
+//        {
+//            get { return paymentValue; }
+//            set
+//            {
+//                paymentValue = value;
+//                if(paymentValue <= 50000)
+//                {
+//                    Console.WriteLine("Accepted");
+//                }
+//                else
+//                {
+//                    Console.WriteLine("Error");
+//                }
+//            }
+//        }
+//    }
+//}
+
+//using System;
+//using System.Collections.Generic;
+
+//namespace Code_Coach_Challenge
+//{
+//    class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            string postText = Console.ReadLine();
+
+//            Post post = new Post();
+//            post.Text = postText;
+//            post.ShowPost();
+
+//        }
+//    }
+
+//    class Post
+//    {
+//        private string text;
+
+//        //write a constructor here
+//        public Post()
+//        {
+//            text = Text;
+//        }
+
+//        public void ShowPost()
+//        {
+//            Console.WriteLine("New post");
+//            Console.WriteLine(text);
+//        }
+
+//        //write a property for member text
+//        public string Text
+//        {
+//            get { return text; }
+//            set { text = value; }
+//        }
+
+//    }
+//}
