@@ -2,11 +2,11 @@
 //using System.Collections.Generic;
 
 
-//namespace SoloLearn
+//namespace sololearn
 //{
-//    class Program
+//    class program
 //    {
-//        static void Main(string[] args)
+//        static void main(string[] args)
 //        {
 //            int number = Convert.ToInt32(Console.ReadLine());
 //            string value = "";
@@ -226,46 +226,136 @@
 //    }
 //}
 
+//using System;
+//using System.Collections.Generic;
+
+//namespace Code_Coach_Challenge
+//{
+//    class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            string postText = Console.ReadLine();
+
+//            Post post = new Post();
+//            post.Text = postText;
+//            post.ShowPost();
+
+//        }
+//    }
+
+//    class Post
+//    {
+//        private string text;
+
+//        //write a constructor here
+//        public Post()
+//        {
+//            text = Text;
+//        }
+
+//        public void ShowPost()
+//        {
+//            Console.WriteLine("New post");
+//            Console.WriteLine(text);
+//        }
+
+//        //write a property for member text
+//        public string Text
+//        {
+//            get { return text; }
+//            set { text = value; }
+//        }
+
+//    }
+//}
+
+
+
+//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
+
+//namespace SoloLearn
+//{
+//    class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            int[,] num = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
+//            for (int k = 0; k < 3; k++)
+//            {
+//                for (int j = 0; j < 3; j++)
+//                {
+//                    Console.Write(num[k, j] + " ");
+//                }
+//                Console.WriteLine();
+//            }
+//        }
+//    }
+//}
+
+//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading;
+//using System.Threading.Tasks;
+
+//namespace SoloLearn
+//{
+//    class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            int count = 0;
+//            int number;
+//            int[] array = new int[5];
+//            while (count < 5)
+//            {
+//                number = Convert.ToInt32(Console.ReadLine());
+//                array[count] = number;
+//                count++;
+//            }
+
+//            Console.WriteLine(array.Max() + array.Min());
+
+//        }
+//    }
+//}
+
 using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
 
-namespace Code_Coach_Challenge
+namespace SoloLearn
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string postText = Console.ReadLine();
+            string password = Console.ReadLine();
+            char[] notAllowedSymbols = { '!', '#', '$', '%', '&', '(', ')',
+            '*', ',', '+', '-' };
 
-            Post post = new Post();
-            post.Text = postText;
-            post.ShowPost();
+            for (int i = 0; i < notAllowedSymbols.Length; i++)
+            {
+                for (int e = 0; e < password.Length; e++)
+                {
+                    if (notAllowedSymbols.Contains(password[e]))
+                    {
+                        Console.WriteLine("Invalid");
+                        break;
+                    }
+                }
+                break;
+            }
 
         }
     }
-
-    class Post
-    {
-        private string text;
-
-        //write a constructor here
-        public Post()
-        {
-            text = Text;
-        }
-
-        public void ShowPost()
-        {
-            Console.WriteLine("New post");
-            Console.WriteLine(text);
-        }
-
-        //write a property for member text
-        public string Text
-        {
-            get { return text; }
-            set { text = value; }
-        }
-
-    }
-}
+}|

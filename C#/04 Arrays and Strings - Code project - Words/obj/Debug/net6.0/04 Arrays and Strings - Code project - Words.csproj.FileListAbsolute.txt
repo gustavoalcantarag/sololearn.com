@@ -1,0 +1,15 @@
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\04 Arrays and Strings - Code project - Words\bin\Debug\net6.0\04 Arrays and Strings - Code project - Words.exe
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\04 Arrays and Strings - Code project - Words\bin\Debug\net6.0\04 Arrays and Strings - Code project - Words.deps.json
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\04 Arrays and Strings - Code project - Words\bin\Debug\net6.0\04 Arrays and Strings - Code project - Words.runtimeconfig.json
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\04 Arrays and Strings - Code project - Words\bin\Debug\net6.0\04 Arrays and Strings - Code project - Words.dll
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\04 Arrays and Strings - Code project - Words\bin\Debug\net6.0\04 Arrays and Strings - Code project - Words.pdb
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\04 Arrays and Strings - Code project - Words\obj\Debug\net6.0\04 Arrays and Strings - Code project - Words.csproj.AssemblyReference.cache
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\04 Arrays and Strings - Code project - Words\obj\Debug\net6.0\04 Arrays and Strings - Code project - Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\04 Arrays and Strings - Code project - Words\obj\Debug\net6.0\04 Arrays and Strings - Code project - Words.AssemblyInfoInputs.cache
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\04 Arrays and Strings - Code project - Words\obj\Debug\net6.0\04 Arrays and Strings - Code project - Words.AssemblyInfo.cs
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\04 Arrays and Strings - Code project - Words\obj\Debug\net6.0\04 Arrays and Strings - Code project - Words.csproj.CoreCompileInputs.cache
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\04 Arrays and Strings - Code project - Words\obj\Debug\net6.0\04 Arrays and Strings - Code project - Words.dll
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\04 Arrays and Strings - Code project - Words\obj\Debug\net6.0\refint\04 Arrays and Strings - Code project - Words.dll
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\04 Arrays and Strings - Code project - Words\obj\Debug\net6.0\04 Arrays and Strings - Code project - Words.pdb
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\04 Arrays and Strings - Code project - Words\obj\Debug\net6.0\04 Arrays and Strings - Code project - Words.genruntimeconfig.cache
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\04 Arrays and Strings - Code project - Words\obj\Debug\net6.0\ref\04 Arrays and Strings - Code project - Words.dll
