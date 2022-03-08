@@ -1,0 +1,15 @@
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\05 More On Classes - Code project - Dance\bin\Debug\net6.0\05 More On Classes - Code project - Dance.exe
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\05 More On Classes - Code project - Dance\bin\Debug\net6.0\05 More On Classes - Code project - Dance.deps.json
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\05 More On Classes - Code project - Dance\bin\Debug\net6.0\05 More On Classes - Code project - Dance.runtimeconfig.json
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\05 More On Classes - Code project - Dance\bin\Debug\net6.0\05 More On Classes - Code project - Dance.dll
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\05 More On Classes - Code project - Dance\bin\Debug\net6.0\05 More On Classes - Code project - Dance.pdb
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\05 More On Classes - Code project - Dance\obj\Debug\net6.0\05 More On Classes - Code project - Dance.csproj.AssemblyReference.cache
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\05 More On Classes - Code project - Dance\obj\Debug\net6.0\05 More On Classes - Code project - Dance.GeneratedMSBuildEditorConfig.editorconfig
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\05 More On Classes - Code project - Dance\obj\Debug\net6.0\05 More On Classes - Code project - Dance.AssemblyInfoInputs.cache
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\05 More On Classes - Code project - Dance\obj\Debug\net6.0\05 More On Classes - Code project - Dance.AssemblyInfo.cs
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\05 More On Classes - Code project - Dance\obj\Debug\net6.0\05 More On Classes - Code project - Dance.csproj.CoreCompileInputs.cache
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\05 More On Classes - Code project - Dance\obj\Debug\net6.0\05 More On Classes - Code project - Dance.dll
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\05 More On Classes - Code project - Dance\obj\Debug\net6.0\refint\05 More On Classes - Code project - Dance.dll
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\05 More On Classes - Code project - Dance\obj\Debug\net6.0\05 More On Classes - Code project - Dance.pdb
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\05 More On Classes - Code project - Dance\obj\Debug\net6.0\05 More On Classes - Code project - Dance.genruntimeconfig.cache
+C:\GUSTAVO\Gustavo\Proyectos\GitHub\sololearn.com\C#\05 More On Classes - Code project - Dance\obj\Debug\net6.0\ref\05 More On Classes - Code project - Dance.dll
