@@ -606,47 +606,105 @@
 //    }
 //}
 
-using System;
-using System.Collections.Generic;
+//using System;
+//using System.Collections.Generic;
 
-namespace Code_Coach_Challenge
+//namespace Code_Coach_Challenge
+//{
+//    class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            string name1 = Console.ReadLine();
+//            int points1 = Convert.ToInt32(Console.ReadLine());
+//            string name2 = Console.ReadLine();
+//            int points2 = Convert.ToInt32(Console.ReadLine());
+
+//            DancerPoints dancer1 = new DancerPoints(name1, points1);
+//            DancerPoints dancer2 = new DancerPoints(name2, points2);
+
+//            DancerPoints total = dancer1 + dancer2;
+//            Console.WriteLine(total.name);
+//            Console.WriteLine(total.points);
+//        }
+//    }
+
+//    class DancerPoints
+//    {
+//        public string name;
+//        public int points;
+//        public DancerPoints(string name, int points)
+//        {
+//            this.name = name;
+//            this.points = points;
+//        }
+
+//        //overload the + operator
+//        public static DancerPoints operator +(DancerPoints a, DancerPoints b)
+//        {
+
+//            int w = a.points + b.points;
+//            string h = a.name +" & "+ b.name;
+//            DancerPoints res = new DancerPoints(h,w);
+//            return res;
+//        }
+//    }
+//}
+
+//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading;
+//using System.Threading.Tasks;
+
+//namespace SoloLearn
+//{
+//    class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            string brandName = Console.ReadLine();
+//            string modelName = Console.ReadLine();
+
+//            Car car = new Car();
+//            car.Brand = brandName;
+//            car.Model = modelName;
+
+//            car.ShowBrand();
+//            car.ShowModel();
+//        }
+//    }
+//    class Vehicle
+//    {
+//        public string Brand { get; set; }
+
+//        public void ShowBrand()
+//        {
+//            Console.WriteLine("Brand: " + Brand);
+//        }
+//    }
+
+//    //complete the Car class
+//    class Car : Vehicle
+//    {
+//        public string Model { get; set; }
+
+//        public void ShowModel()
+//        {
+//            Console.WriteLine("Model: " + Model);
+//        }
+//    }
+//}
+
+string texto = "ENEX|2.1|0101||0.01||2022-02-19|11:11:32|0208|19584.99\nDN|1|1000|DIECINUEVE MIL QUINIENTOS OCHENTA Y CUATRO y 99/100 SOLES|\nDE|1|380|NIU|16.00|5152.54|000000000070036527|01|529.00|5152.54||||";
+
+int intPosEnexInicio = texto.IndexOf("ENEX|", 0);
+int intPosEnexFin = texto.Substring(intPosEnexInicio, texto.Length - intPosEnexInicio).IndexOf("\r\n", 0);
+
+
+if ((intPosEnexInicio + intPosEnexFin) > intPosEnexInicio)
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            string name1 = Console.ReadLine();
-            int points1 = Convert.ToInt32(Console.ReadLine());
-            string name2 = Console.ReadLine();
-            int points2 = Convert.ToInt32(Console.ReadLine());
-
-            DancerPoints dancer1 = new DancerPoints(name1, points1);
-            DancerPoints dancer2 = new DancerPoints(name2, points2);
-
-            DancerPoints total = dancer1 + dancer2;
-            Console.WriteLine(total.name);
-            Console.WriteLine(total.points);
-        }
-    }
-
-    class DancerPoints
-    {
-        public string name;
-        public int points;
-        public DancerPoints(string name, int points)
-        {
-            this.name = name;
-            this.points = points;
-        }
-
-        //overload the + operator
-        public static DancerPoints operator +(DancerPoints a, DancerPoints b)
-        {
-            
-            int w = a.points + b.points;
-            string h = a.name +" & "+ b.name;
-            DancerPoints res = new DancerPoints(h,w);
-            return res;
-        }
-    }
+    Console.WriteLine("Hola");
 }
+
